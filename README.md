@@ -1,1 +1,1 @@
-# X2C: A Benchmark Featuring Nuanced Facial Expressions for Realistic Humanoid Imitation
+# VividFace: Real-Time and Realistic Facial Expression Shadowing for Humanoid Robots
